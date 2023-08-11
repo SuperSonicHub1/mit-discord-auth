@@ -1,0 +1,7 @@
+node_modules
+.env
+.mit.auth.json
+*.db
+*.db-shm
+*.db-wal
+sessions
